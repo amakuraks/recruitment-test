@@ -2,7 +2,7 @@
 
 	<!-- Brand Logo -->
 	<a href="{{route('home')}}" class="brand-link">
-		<img src="/img/mb-favicon.png" alt="Bangun Abadi Teknologi Indonesia"  style="max-height:40px"  class="brand-image">
+		<img src="/img/mb-favicon.png" style="max-height:40px"  class="brand-image">
 		<span class="brand-text font-weight-normal" style="font-family: 'Poppins', sans-serif;">{{ config('app.name', 'Laravel') }}</span>
 	</a>
 
